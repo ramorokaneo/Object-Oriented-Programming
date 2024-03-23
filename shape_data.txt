@@ -1,0 +1,2 @@
+Rectangle,Rectangle1,5,10
+Circle,Circle1,7
